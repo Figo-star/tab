@@ -1,0 +1,10 @@
+{
+  "name": "tab",
+  "version": "0.1.0",
+  "description": "Keep a tab on every token: pre-flight estimates + session receipts.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
